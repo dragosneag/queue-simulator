@@ -23,7 +23,7 @@ public class Dashboard extends AppFrame{
     private JTextArea updateTextArea;
     private JButton startButton;
     SimulationManager simulationManager;
-    String path = "D:\\Documente\\Facultate\\An 2\\Semestrul 2\\FPT\\Laboratory\\Assignment 2\\resultset.txt";
+    String path = "D:\\Documente\\Facultate\\An 2\\Semestrul 2\\FPT\\Laboratory\\PT2021_30421_Neag_Dragos_Assignment_2\\resultset.txt";
     FileWriter fileWriter;
 
     @Override
